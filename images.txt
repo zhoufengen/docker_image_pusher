@@ -1,1 +1,1 @@
-docker.io/pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime
+nvidia/cuda:11.8.0-devel-ubuntu22.04
