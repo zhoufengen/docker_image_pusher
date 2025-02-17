@@ -1,1 +1,1 @@
-zilliz/attu:v2.4.12
+searxng/searxng:2025.2.15-d37dc3078
