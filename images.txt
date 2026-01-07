@@ -1,2 +1,2 @@
-maven:3.8.5-openjdk-17
-openjdk:17-ea-jdk-slim
+node:20-alpine
+nginx:1.29.4
